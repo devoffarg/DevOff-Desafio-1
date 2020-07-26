@@ -55,11 +55,15 @@ git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-1
 
 También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
 
+Cuando finalices la resolución del desafío, no olvides subir todos tus cambios usando `git push` o el equivalente que ofrezca tu cliente de Git. Envianos por el chat de la transmisión o por DM a la cuenta de Twitter de DevOff Argentina el link a tu repositorio.
+
 ### Si no tenés una cuenta en GitHub
 
 Seleccionando la acción "Code" que está al comienzo de la página, podrás elegir la opción `Download zip` y descargarte un archivo comprimido con los contenidos de este repositorio. [También podés hacer clic aquí y mágicamente se descargará el archivo comprimido](https://github.com/devoffarg/DevOff-Desafio-1/archive/master.zip).
 
 ![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)
+
+Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/).
 
 ## 💜 Agradecimientos
 

@@ -57,7 +57,7 @@ También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
 
 ### Si no tenés una cuenta en GitHub
 
-Seleccionando la acción "Code" que está al comienzo de la página, podrás elegir la opción `Download zip` y descargarte un archivo comprimido con los contenidos de este repositorio.
+Seleccionando la acción "Code" que está al comienzo de la página, podrás elegir la opción `Download zip` y descargarte un archivo comprimido con los contenidos de este repositorio. [También podés hacer clic aquí y mágicamente se descargará el archivo comprimido](https://github.com/devoffarg/DevOff-Desafio-1/archive/master.zip).
 
 ![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)
 

@@ -70,7 +70,7 @@ Seleccionando la acción "Code" que está al comienzo de la página, podrás ele
 
 ### Organizaciones aliadas
 
-¡Gracias a [Migue Moyano](https://twitter.com/elmiguedev), [Joel A. Villarreal Bertoldi](https://twitter.com/joelalejandro) y [Agustín Carrasco](https://twitter.com/asermax) del equipo de [CoDeAr](https://twitter.com/somoscodear) por acompañar este proyecto y por donarnos el premio para la persona ganadora de este desafío!
+¡Gracias a [Migue Moyano](https://twitter.com/elmiguedev), [Joel A. Villarreal Bertoldi](https://twitter.com/joelalejandro) y [Agustín Carrasco](https://twitter.com/asermax) del equipo de [CoDeAr](https://twitter.com/somoscodear) por dar una mano para que este proyecto sea posible! 
 
 ### Créditos
 

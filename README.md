@@ -1,6 +1,6 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
 
-# Desafío 01 - 26/7/2020
+# Desafío 1 - 26/07/2020
 
 Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 

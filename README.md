@@ -33,7 +33,11 @@ Tendrás **1 hora** para resolver el desafío.
 
 ## 📸 ¿De dónde saco fotos?
 
-¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta [`fotos`](./fotos). De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
+¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta [`fotos`](./fotos): 
+
+<img src="./fotos/01.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/02.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/03.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/04.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/05.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/06.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/07.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/08.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/09.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/10.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/11.jpg" align="middle" hspace="2" vspace="2" width="200"><img src="./fotos/12.jpg" align="middle" hspace="2" vspace="2" width="200">
+
+De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
 
 ## 🤔 ¿Cómo presento mi código?
 

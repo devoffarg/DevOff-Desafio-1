@@ -59,9 +59,7 @@ Cuando finalices la resolución del desafío, no olvides subir todos tus cambios
 
 ### Si no tenés una cuenta en GitHub
 
-Seleccionando la acción "Code" que está al comienzo de la página, podrás elegir la opción `Download zip` y descargarte un archivo comprimido con los contenidos de este repositorio. [También podés hacer clic aquí y mágicamente se descargará el archivo comprimido](https://github.com/devoffarg/DevOff-Desafio-1/archive/master.zip).
-
-![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)
+[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-1/archive/master.zip).
 
 Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/).
 

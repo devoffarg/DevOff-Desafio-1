@@ -74,7 +74,7 @@ Seleccionando la acción "Code" que está al comienzo de la página, podrás ele
 
 ### Créditos
 
-DevOff Argentina es una iniciativa en conjunto originada por [Aldana Denise](https://twitter.com/gizmowis), con el apoyo de [CoDeAr](https://twitter.com/somoscodear).
+DevOff Argentina es un proyecto ideado por [Aldana Denise](https://twitter.com/gizmowis), con el apoyo de [CoDeAr](https://twitter.com/somoscodear).
 
 Este desafío incluye fotos cortesía de las siguientes fuentes:
 

@@ -17,10 +17,10 @@ Serás libre de implementar la estética y funcionalidad que quieras, siempre y 
 
 ## Algunos ejemplos para que explores
 
-https://codepen.io/MalaikaIshtiaq/pen/MNbXyx
-https://codepen.io/thebabydino/pen/oWqpzw
-https://codepen.io/bbx/pen/Jxoqdg
-https://codepen.io/alchatti/pen/NOdzLO
+- https://codepen.io/MalaikaIshtiaq/pen/MNbXyx
+- https://codepen.io/thebabydino/pen/oWqpzw
+- https://codepen.io/bbx/pen/Jxoqdg
+- https://codepen.io/alchatti/pen/NOdzLO
 
 ## ¿De dónde saco fotos?
 

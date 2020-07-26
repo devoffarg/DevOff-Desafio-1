@@ -33,26 +33,7 @@ Tendrás **1 hora** para resolver el desafío.
 
 ## 📸 ¿De dónde saco fotos?
 
-Cualquiera de estas opciones te ayudará:
-
-- ¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta `fotos`.
-- Si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
-- Podrás utilizar el servicio de Unsplash para obtener imágenes aleatorias de la temática que más quieras.
-
-
-### Usando Unsplash
-
-Utilizá esta URL y reemplazá `cake` por cualquier palabra (¡funciona en inglés y en español!):
-
-https://source.unsplash.com/1600x900/?cake
-
-Podés colocar esa ruta directamente en la etiqueta IMG:
-
-```html
-<img src="https://source.unsplash.com/1600x900/?cake">
-```
-
-¡También podés reemplazar el tamaño `1600x900` por la medida que quieras!
+¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta `fotos`. De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
 
 ## 🤔 ¿Cómo presento mi código?
 
@@ -75,5 +56,33 @@ También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
 Seleccionando la acción "Code" que está al comienzo de la página, podrás elegir la opción `Download zip` y descargarte un archivo comprimido con los contenidos de este repositorio.
 
 ![](https://docs.github.com/assets/images/help/repository/https-url-clone.png)
+
+## 💜 Agradecimientos
+
+### Jurados
+
+- ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Magalí Domínguez](https://twitter.com/printmaga) por ser nuestros jurados!
+- ¡Un agradecimiento especial a [Damián Catanzaro](https://twitter.com/damiancatanzaro), el jurado invitado de esta edición!
+
+### Organizaciones aliadas
+
+¡Gracias al equipo de [CoDeAr](https://twitter.com/somoscodear) por acompañanar este proyecto y por donarnos el premio para la persona ganadora de este desafío!
+
+### Créditos
+
+Este desafío incluye fotos cortesía de las siguientes fuentes:
+
+- [Close up photography of sleeping tabby cat](./fotos/01.jpg), de [Ihsan Adity](https://twitter.com/IhsanAdity)
+- [Baking cheese cooking crust](./fotos/02.jpg), de [Pixabay](https://www.pexels.com/@pixabay)
+- [Woman holding cup of latte](./fotos/03.jpg), de [The Lazy Artist](https://twitter.com/antassingh)
+- [Photography of tree](./fotos/04.jpg), de [Yugal Srivastava](https://twitter.com/yugalsrivastava)
+- [White clouds and blue sky](./fotos/05.jpg), de [Ithalu Dominguez](https://twitter.com/ithasud)
+- [Brown and white short coated puppy](./fotos/06.jpg), de [Valeria Boltneva](https://instagram.com/tsapolka)
+- [Food plate chocolate dessert](./fotos/07.jpg), de [Alexander Dummer](https://www.pexels.com/@alexander-dummer-37646)
+- [Person holding multi-colored heart-shaped ornament](./fotos/08.jpg), de [Sharon McCutcheon](https://instagram.com/mccutcheonphoto)
+- [Brown hummingbird selective focus photography](./fotos/09.jpg), de [Philippe Donn](https://twitter.com/philippedonnphotography)
+- [Wall-e toy on beige pad](./fotos/10.jpg), de [Lenin Estrada](https://www.pexels.com/@lenin-estrada-117221)
+- [Sliced fruits on tray](./fotos/11.jpg), de [Trang Doan](https://instagram.com/iamtrangdoan)
+- [Person hand and crescent moon](./fotos/12.jpg), de [Kaique Rocha](https://instagram.com/hikaique)
 
 # ¡Muchos éxitos y a codear!

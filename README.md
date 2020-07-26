@@ -13,7 +13,9 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 Tendrás **1 hora** para resolver el desafío.
 
-Serás libre de implementar la estética y funcionalidad que quieras, siempre y cuando se cumplan las condiciones esenciales del desafío
+Serás libre de implementar la estética y funcionalidad que quieras, siempre y cuando se cumplan las condiciones esenciales del desafío.
+
+Podés utilizar cualquier herramienta de búsqueda que necesites (amamos buscar en Google y leer Stack Overflow <3).
 
 ## Algunos ejemplos para que explores
 

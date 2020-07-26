@@ -33,7 +33,7 @@ Tendrás **1 hora** para resolver el desafío.
 
 ## 📸 ¿De dónde saco fotos?
 
-¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta `fotos`. De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
+¡Este repositorio incluye algunas fotos de ejemplo! Están en la carpeta [`fotos`](./fotos). De todos modos, si tenés fotos que te gusten y quieras usarlas a mano, podés utilizar esas mismas. 
 
 ## 🤔 ¿Cómo presento mi código?
 

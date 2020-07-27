@@ -1,0 +1,30 @@
+.gallery-container {
+  display: flex;
+  flex-direction: row;
+  background: aliceblue;
+}
+
+.img-container {
+  flex-wrap: wrap;
+}
+
+.gallery-image {
+  width: 350px;
+  height: 400px;
+  border: 1px solid #ccc;
+}
+
+.gallery-image:hover {
+  filter: blur(2px);
+  transform: scaleY(1.5) scaleX(1.5);
+}
+
+.image-link:active {
+  width: 80%;
+  height: 70%;
+  transform: scaleY(1.5);
+}
+
+.global {
+  display: flex;
+}

@@ -1,0 +1,56 @@
+body {
+    background-color: #838383;
+    font-family: "Segoe IU", sans-serif;
+    color: white;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0em;
+}
+
+.pieDePagina {
+    display: flex;
+    justify-content: center;
+    background-color: #d9adad;
+    width: 100%;
+}
+
+.imagenes2 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fccbcb;
+    width: 100%;
+}
+
+img:hover {
+    -webkit-transform:scale(1.5);
+    -moz-transform:scale(1.5);
+    -ms-transform:scale(1.5);
+    -o-transform:scale(1.5);
+    transform:scale(1.5);
+    -webkit-transition:all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    -o-transition:all 0.5s ease;
+    -ms-transition:all 0.5s ease;
+    }
+
+@media screen and (min-width: 650px) {
+        .imagenes {
+        display: grid;
+        grid-gap: 1px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .imagenes {
+        display: grid;
+        grid-gap: 1px;
+        grid-template-columns: 1fr 1fr;
+    }
+}

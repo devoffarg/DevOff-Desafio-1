@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #d9a7c7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+header {
+  color: #001858;
+  font-family: 'Fredoka One', cursive;
+  margin: 2em auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 1em auto;
+}
+
+.img-container {
+  margin: 0 auto;
+  max-width: 1200px;
+  column-count: 4;
+  column-gap: 0;  
+}
+
+.img-card {
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 0.5em 0;
+  padding: 0.5em;
+  transition: all 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+  width: 240px;
+}
+
+.img-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  transform: scale(1.02);
+  z-index: 4;
+  width: auto;
+} 
+
+.img-card:hover > img {
+  width: 360px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  margin: 2em auto;
+  text-align: center;
+}
+
+footer > span {
+  color: #172c66;
+  font-size: 1em;
+}
+
+footer > span > a {
+  color: #f582ae;
+  text-decoration: none;
+}
+
+@media (max-width: 767px) {
+  .img-container {
+    column-count: 2; 
+    padding: 0 1em;
+  }
+}
+
+@media (max-width: 460px) {
+  .img-container {
+    column-count: 1; 
+  }
+
+  .img-card {
+    width: 100%;
+  }
+}

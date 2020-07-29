@@ -93,4 +93,37 @@ Este desafío incluye fotos cortesía de las siguientes fuentes:
 - [Sliced fruits on tray](./fotos/11.jpg), de [Trang Doan](https://instagram.com/iamtrangdoan)
 - [Person hand and crescent moon](./fotos/12.jpg), de [Kaique Rocha](https://instagram.com/hikaique)
 
+## Soluciones
+
+¡A continuación, listamos todas las soluciones que se fueron presentando para este desafío!
+
+🌟 Participantes EN VIVO:
+
+- https://github.com/paz873107/DevOff-Desafio-1, por Paz Casaux
+- https://github.com/MatiSera/DevOff-Desafio-1, por Mati Sera
+- https://github.com/LucianABC/DevOff-Desafio-1, por Lucian
+- https://github.com/Irnias/DevOff-Desafio-1, por Irnias
+
+💜 Participantes de la comunidad:
+
+- https://codepen.io/joaqo89/pen/oNbRJyR, por [Joaco](https://twitter.com/deseodeseodeseo/status/1288287428973924354)
+- https://codepen.io/paula-abramovich/pen/bGEyOdV. por [Paula Abramovich](https://twitter.com/PaulaAbramovich/status/1288271691479683074)
+- https://codepen.io/saulmoniq/pen/RwrmExb, por [Saul Monique](https://twitter.com/Saulmonique_/status/1288282576508129285)
+- https://devoff-desafio1.vercel.app, por [Oscar Moreira](https://twitter.com/OscarMoreira1/status/1288169118051586049)
+- https://twitter.com/i/status/1288130251109826560, por @SailorCris
+- https://codepen.io/julieta-mullen/pen/BajeQdY, por [Julieta Mullen](https://twitter.com/julietamullen/status/1288042816552280066)
+- https://codepen.io/edukj/pen/ZEQNOap, por [Kuki](https://twitter.com/edukj_/status/1287952612181127169)
+- https://github.com/csmamani/DevOff-Desafio-1, por [Carolin](https://twitter.com/mcarolinx/status/1287948646210822145)
+- https://codepen.io/gabrield22/pen/NWxVraK, por [Gabriel Domínguez](https://twitter.com/Gabeed22/status/1287932534156910593)
+- https://codepen.io/erosilk/pen/WNrBwMa, por [Micael Robles](https://twitter.com/_mikirobles/status/1287912851135397896)
+- https://codepen.io/dcatanzaro/pen/VweOaZe, por [Damián Catanzaro](https://twitter.com/DamianCatanzaro/status/1287904364322004995)
+- https://codepen.io/adrian-benavente/pen/VweOwNq, por [Adrián Benavente](https://twitter.com/fenavente/status/1287812603205562369?)
+- https://twitter.com/Jess_vel92/status/1287855604590092291, por @Jess_vel92
+- https://codepen.io/fefitin/pen/RwrmrKb, por [Federico García](https://twitter.com/fefitin_/status/1287882645439799296)
+- https://codepen.io/goncy/pen/rNxbExM, por [Goncy](https://twitter.com/goncy/status/1287755085137707010)
+- https://ivanfranco502.github.io/DevOff-Desafio-1/, por [Iván Franco](https://twitter.com/ivanfranco502/status/1287744145306550273)
+- https://twitter.com/GabiAleMoya/status/1287611234595082241, por @GabiAleMoya
+- https://github.com/Enkdress/DevOff-Desafio-1, por [Sergio Correa](https://twitter.com/xEnkdress/status/1287608557773434881)
+- https://github.com/emicarito/DevOff-Desafio-1, por [Emi Carito](https://twitter.com/emicarito92/status/1287578784275795968)
+
 # ¡Muchos éxitos y a codear!

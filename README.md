@@ -93,7 +93,7 @@ Este desafío incluye fotos cortesía de las siguientes fuentes:
 - [Sliced fruits on tray](./fotos/11.jpg), de [Trang Doan](https://instagram.com/iamtrangdoan)
 - [Person hand and crescent moon](./fotos/12.jpg), de [Kaique Rocha](https://instagram.com/hikaique)
 
-## Soluciones
+## 🚀 Soluciones
 
 ¡A continuación, listamos todas las soluciones que se fueron presentando para este desafío!
 

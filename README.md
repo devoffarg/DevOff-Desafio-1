@@ -99,9 +99,9 @@ Este desafío incluye fotos cortesía de las siguientes fuentes:
 
 🌟 Participantes EN VIVO:
 
+- https://github.com/LucianABC/DevOff-Desafio-1, por Lucian 🏆
 - https://github.com/paz873107/DevOff-Desafio-1, por Paz Casaux
 - https://github.com/MatiSera/DevOff-Desafio-1, por Mati Sera
-- https://github.com/LucianABC/DevOff-Desafio-1, por Lucian
 - https://github.com/Irnias/DevOff-Desafio-1, por Irnias
 
 💜 Participantes de la comunidad:

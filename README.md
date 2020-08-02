@@ -128,5 +128,7 @@ Este desafío incluye fotos cortesía de las siguientes fuentes:
 - https://codesandbox.io/s/purple-lake-s3r2f, por [Milonesse](https://twitter.com/milonesssa/status/1288511490207690754)
 - https://github.com/mmoyano16/DevOff-Desafio-1, por [Migue Moyano](https://twitter.com/elmiguedev/status/1288543185086697474)
 - https://repl.it/@joelalejandro/DevOff-Desafio-1#index.html, por [Joey](https://twitter.com/JoelAlejandro/status/1288576981265797121)
+- https://twitter.com/AyalaLean4339/status/1288927021071040516, por @AyalaLean4339
+- https://github.com/Emilia-Guadalupe/GaleriaDeFotos, por [Emilia Guadalupe](https://twitter.com/Emi_guadalupe/status/1288885279789547522)
 
 # ¡Muchos éxitos y a codear!

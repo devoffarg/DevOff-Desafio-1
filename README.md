@@ -130,5 +130,9 @@ Este desafío incluye fotos cortesía de las siguientes fuentes:
 - https://repl.it/@joelalejandro/DevOff-Desafio-1#index.html, por [Joey](https://twitter.com/JoelAlejandro/status/1288576981265797121)
 - https://twitter.com/AyalaLean4339/status/1288927021071040516, por @AyalaLean4339
 - https://github.com/Emilia-Guadalupe/GaleriaDeFotos, por [Emilia Guadalupe](https://twitter.com/Emi_guadalupe/status/1288885279789547522)
+- https://codepen.io/Aman-sgz/pen/GRobNYv, por [Aman](https://twitter.com/webdevelopera/status/1288623894413312001)
+- https://github.com/marcosdellavecchia/DevOff-Desafio-1, por [Marcos Della Vecchia](https://twitter.com/marcosdv/status/1288664276526407681)
+- https://gueretamartin.github.io/DevOff-Desafio-1/, por [Martín Guereta](https://twitter.com/MartinGuereta/status/1288669240636186625)
+- https://twitter.com/Franqsanz/status/1288937196439953409, por @Franqsanz
 
 # ¡Muchos éxitos y a codear!
